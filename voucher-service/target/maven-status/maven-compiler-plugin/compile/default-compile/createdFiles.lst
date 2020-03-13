@@ -1,0 +1,4 @@
+com\demo\voucherservice\model\Voucher.class
+com\demo\voucherservice\repository\VoucherRepository.class
+com\demo\voucherservice\controller\VoucherController.class
+com\demo\voucherservice\VoucherServiceApplication.class
