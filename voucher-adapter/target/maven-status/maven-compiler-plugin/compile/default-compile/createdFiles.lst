@@ -1,0 +1,4 @@
+com\demo\voucheradapter\VoucherServiceProxy.class
+com\demo\voucheradapter\controller\VoucherAdapterController.class
+com\demo\voucheradapter\VoucherAdapterApplication.class
+com\demo\voucheradapter\model\Voucher.class
